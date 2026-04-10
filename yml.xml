@@ -1,4 +1,3 @@
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2026-04-10">
   <shop>
@@ -28,84 +27,6 @@
         <description>Парфюм Rozum Way With You</description>
       </offer>
 
-      <offer id="rozum-just-you-and-me" available="true">
-        <name>Just You And Me</name>
-        <url>https://rozumperfume.com/ru/catalog/tproduct/369298338492-just-you-and-me</url>
-        <price>115000</price>
-        <currencyId>KZT</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://optim.tildacdn.net/stor6238-6161-4834-b636-393665376561/-/format/webp/8cabb5d41ecc817eec485bae23843dc1.png.webp</picture>
-        <vendor>Rozum</vendor>
-        <description>Парфюм Rozum Just You And Me</description>
-      </offer>
-
-      <offer id="rozum-so-hard-so-hot" available="true">
-        <name>So Hard So Hot</name>
-        <url>https://rozumperfume.com/ru/catalog/tproduct/393703783742-so-hard-so-hot</url>
-        <price>155000</price>
-        <currencyId>KZT</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://optim.tildacdn.net/stor6466-3064-4332-b439-323136653331/-/format/webp/5d21db0bfa0ce62955784fb635d7a727.png.webp</picture>
-        <vendor>Rozum</vendor>
-        <description>Парфюм Rozum So Hard So Hot</description>
-      </offer>
-
-      <offer id="rozum-jealous" available="true">
-        <name>Jealous</name>
-        <url>https://rozumperfume.com/ru/catalog/tproduct/820979235392-jealous</url>
-        <price>135000</price>
-        <currencyId>KZT</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://optim.tildacdn.net/stor3364-6263-4234-a238-306436653939/-/format/webp/13422f252fa254fb10225c9d04922ec2.png.webp</picture>
-        <vendor>Rozum</vendor>
-        <description>Парфюм Rozum Jealous</description>
-      </offer>
-
-      <offer id="rozum-sun-after-storm" available="true">
-        <name>Sun After Storm</name>
-        <url>https://rozumperfume.com/ru/catalog/tproduct/908625187022-sun-after-storm</url>
-        <price>110000</price>
-        <currencyId>KZT</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://optim.tildacdn.net/stor6334-3235-4961-b933-383863663164/-/format/webp/883579fad8ef84066fb237c6d3e8faa4.png.webp</picture>
-        <vendor>Rozum</vendor>
-        <description>Парфюм Rozum Sun After Storm</description>
-      </offer>
-
-      <offer id="rozum-aelia" available="true">
-        <name>Aelia</name>
-        <url>https://rozumperfume.com/ru/catalog/tproduct/458453978742-aelia</url>
-        <price>125000</price>
-        <currencyId>KZT</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://optim.tildacdn.net/stor3836-3638-4531-b239-393634653865/-/format/webp/aa3b22468c25c888f24d5ca7495b6f70.png.webp</picture>
-        <vendor>Rozum</vendor>
-        <description>Парфюм Rozum Aelia</description>
-      </offer>
-
-      <offer id="rozum-arian" available="true">
-        <name>Arian</name>
-        <url>https://rozumperfume.com/ru/catalog/tproduct/685962447732-arian</url>
-        <price>115000</price>
-        <currencyId>KZT</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://optim.tildacdn.net/stor3932-3433-4466-b934-356664666539/-/format/webp/43560b9eca81230c83a99e8a227b18b9.png.webp</picture>
-        <vendor>Rozum</vendor>
-        <description>Парфюм Rozum Arian</description>
-      </offer>
-
-      <offer id="rozum-discovery-set" available="true">
-        <name>Discovery Set</name>
-        <url>https://rozumperfume.com/ru/catalog/tproduct/253856333704-discovery-set</url>
-        <price>55000</price>
-        <currencyId>KZT</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://optim.tildacdn.net/stor3764-6261-4937-b937-346163353062/-/format/webp/a3c99077fe63858e2caa89d01db22a7f.png.webp</picture>
-        <vendor>Rozum</vendor>
-        <description>Набор ароматов Rozum Discovery Set</description>
-      </offer>
-
     </offers>
   </shop>
 </yml_catalog>
-```
